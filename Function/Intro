@@ -1,0 +1,24 @@
+
+FUNCTIONS : 
+    A function is a block of organized and reusable code
+    Function Syntax
+    1. DataType FunctionName(Parameter list) { }
+
+    Ex : int add(int num1 , int num2){
+        <!-- logic -->
+        return result;
+    }
+    2. Return Type FunctionName() { }
+
+    Functions :
+    Function Definition
+    Function Declaration
+    Function Call
+
+    Types of function : 
+    4Types
+
+    1. Return Type with Arguments
+    1. Return Type with  No Arguments
+    1. No Return Type with Arguments (void)
+    1. No Return Type with No Arguments
