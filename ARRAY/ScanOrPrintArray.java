@@ -39,6 +39,8 @@ public class ScanOrPrintArray {
         for(int i : arr2){
             System.out.print(i +"   ");
         }
+
+        System.out.println(017);
     }
 }
 
@@ -52,3 +54,13 @@ public class ScanOrPrintArray {
 //      user input : number   output : index
 // Count number of occurrences of a given element
 // Count the number of times a specific element appears in an array
+
+// Min element
+// Max element
+// Span................
+// Is array sorted
+// Reverse array
+// Missing Number
+// Sort 0 and 1
+// Second Min Element
+// Second Max Element
