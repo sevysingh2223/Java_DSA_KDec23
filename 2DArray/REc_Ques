@@ -1,0 +1,72 @@
+Print 1 to 10
+Print 10 to 1
+Table of a num
+Sum 1 to N
+Sum 1 to N (Even Sum)
+Sum 1 to N (Odd Sum)
+Print Digits of a num 
+    num : 8596
+    8,5,9,6
+
+Palindrome
+Reverse
+Count of Digits
+
+Factorial of a number
+Power of 2
+Power of 3
+Power of 4
+Pow(x,n)
+Prime Number
+Armstrong Number
+
+-----------------------------------------
+Automorphic Number
+
+Input  : N = 76 
+Output : Automorphic
+Explanation: As 76*76 = 5776
+
+Input  : N = 25
+Output : Automorphic
+As 25*25 = 625
+
+Peterson Number
+Number : 145
+
+------------------------------------------
+1 add two array.
+<!-- 2 arrange number. -->
+3 binary search.
+4 first repeat number.
+5 greater number in an array.
+<!-- 6 intersection. -->
+7 linear search.
+8missing number.
+9 remove duplicate.
+10 repeat value.
+11 running sum.
+12 reverse array.
+13 smaller number in an array.
+<!-- 14 union. -->
+15 user value in an array.
+16 add 1 in an array.
+17 even sum in an array.
+18 find index in an array.
+<!-- 19 leading value. -->
+20 max number in an array.
+23 min number in an array.
+20 max number in each row.
+20 max number in each col.
+21 max row sum.
+22 max col sum.
+<!-- [---------------------------------] -->
+24 print prime number.
+25 sorted array or not.
+26 spam.
+27 sum of diagonal.
+28 symmetric or not.
+29 transpose.
+30 mature element in an array.
+31 single value.
+32 kth max and min in an array.
