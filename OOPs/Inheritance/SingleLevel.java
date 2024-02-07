@@ -42,5 +42,3 @@ public class SingleLevel {
 }
 
 
-// Parent class : Teacher (result: input (5 subject marks) attendance() > 75%)
-// Child class : Student (result)
